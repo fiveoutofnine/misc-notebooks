@@ -11,8 +11,8 @@ A collection's floor is currently way too dominant as a pricing reference, and t
 
 <table>
   <tr>
-    <td><img src='how-many-nfts-are-floor/images/0.png'></td>
-    <td><img src='nouns-bids/images/1.png'></td>
+    <td><img src='how-many-nfts-are-floor/images/0.png' width='400'></td>
+    <td><img src='nouns-bids/images/1.png' width='400'></td>
   </tr>
  </table>
 
@@ -27,11 +27,11 @@ Even though it was kinda expected, I’m pretty surprised how much action takes 
 
 <table>
   <tr>
-    <td><img src='nouns-bids/images/0.png'></td>
-    <td><img src='nouns-bids/images/1.png'></td>
+    <td><img src='nouns-bids/images/0.png' width='400'></td>
+    <td><img src='nouns-bids/images/1.png' width='400'></td>
   </tr>
   <tr>
-    <td><img src='nouns-bids/images/2.png'></td>
-    <td><img src='nouns-bids/images/3.png'></td>
+    <td><img src='nouns-bids/images/2.png' width='400'></td>
+    <td><img src='nouns-bids/images/3.png' width='400'></td>
   </tr>
  </table>
