@@ -1,5 +1,5 @@
 # misc-notebooks
-## [how-many-nfts-are-floor]((https://github.com/fiveoutofnine/misc-notebooks/tree/main/how-many-nfts-are-floor))
+## [how-many-nfts-are-floor](https://github.com/fiveoutofnine/misc-notebooks/tree/main/how-many-nfts-are-floor)
 [<ins>__`Tweet`__</ins>](https://twitter.com/fiveoutofnine/status/1498829392021237762?s=20&t=Td5bGCMdlnmiIg1_bUcSvw)
 
 How many NFTs are considered "floor" NFTs in a collection?
