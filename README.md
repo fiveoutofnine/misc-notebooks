@@ -12,7 +12,7 @@ A collection's floor is currently way too dominant as a pricing reference, and t
 <table>
   <tr>
     <td><img src='how-many-nfts-are-floor/images/0.png' width='400'></td>
-    <td><img src='nouns-bids/images/1.png' width='400'></td>
+    <td><img src='how-many-nfts-are-floor/images/1.png' width='400'></td>
   </tr>
  </table>
 
