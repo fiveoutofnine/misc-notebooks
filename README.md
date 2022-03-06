@@ -17,7 +17,7 @@ A collection's floor is currently way too dominant as a pricing reference, and t
  </table>
 
 
-## [nouns-bids](https://github.com/fiveoutofnine/misc-notebooks/tree/main/how-many-nfts-are-floor)
+## [nouns-bids](https://github.com/fiveoutofnine/misc-notebooks/tree/main/nouns-bids)
 [<ins>__`Tweet`__</ins>](https://github.com/fiveoutofnine/misc-notebooks/tree/main/nouns-bids)
 
 I wanted to confirm the myth that auctions’ bids are actually mostly at the start/end, so I visualized @nounsdao
